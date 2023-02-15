@@ -1,0 +1,18 @@
+elenebt.style {
+}
+h1 {
+    color: rgb(28, 156, 158);
+}
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(90, 243, 90);
+}
+h1 {        
+    display: table;
+    font-size: 2em;
+    margin-block-start: 0.87em;
+    margin-block-end: 0.87em;
+    font-weight: bold;
+    
+}

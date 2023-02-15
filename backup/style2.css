@@ -1,0 +1,10 @@
+h1 {
+    color: aqua;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: content-box;
+    background-color: rgb(252, 208, 126)
+}
+
+
